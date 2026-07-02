@@ -1,0 +1,12 @@
+{
+  "mcpServers": {
+    "sqlite-lab": {
+      "type": "stdio",
+      "command": "D:\\Vin\\Day26-Track3-MCP-tool-integration\\venv\\Scripts\\python.exe",
+      "args": [
+        "D:\\Vin\\Day26-Track3-MCP-tool-integration\\implementation\\mcp_server.py"
+      ],
+      "env": {}
+    }
+  }
+}
