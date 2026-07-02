@@ -1,3 +1,6 @@
+**Họ tên: Nguyễn Ngọc Hảo**
+**Mã học viên: 2A202600903**
+
 # SQLite Database MCP Server with FastMCP
 
 This project implements a fully-featured, production-ready Model Context Protocol (MCP) server that exposes a SQLite database to LLM clients (such as Claude Code, Gemini CLI, etc.). 
